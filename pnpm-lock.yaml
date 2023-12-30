@@ -12,8 +12,8 @@ devDependencies:
     specifier: ^0.39.8
     version: 0.39.8(eslint@8.46.0)(typescript@5.2.2)
   '@es-js/sandbox':
-    specifier: ^0.0.9
-    version: 0.0.9
+    specifier: ^0.0.11
+    version: 0.0.11
   eslint:
     specifier: ^8.46.0
     version: 8.46.0
@@ -153,8 +153,8 @@ packages:
       js-tokens: 4.0.0
     dev: true
 
-  /@es-js/sandbox@0.0.9:
-    resolution: {integrity: sha512-uMifBmoQ11mfA9fZrmKZP/NUuiFtDVohTKdOvp7JIXAchgRoQAgfEaDWvh9QrVzbAwg+7GwYOcnXOM1Yz7vgtQ==}
+  /@es-js/sandbox@0.0.11:
+    resolution: {integrity: sha512-chMOgBhSo/3lLIX45bFiO34lZHHoRuukvdI/wh45IN7GkmUqO+pmVzHwEGj2X67LS7e4MtLXyvnBjzRluOoSRA==}
     dev: true
 
   /@esbuild/android-arm64@0.18.20:
